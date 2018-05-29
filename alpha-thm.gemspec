@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "alpha-thm"
-  spec.version       = "0.1.5"
+  spec.version       = "0.1.6"
   spec.authors       = ["Art Zenevich"]
   spec.email         = ["artzen91@gmail.com"]
 
