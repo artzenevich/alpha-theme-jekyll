@@ -8,7 +8,7 @@ gem install alpha-thm
 ```
 add in __Gemfile__
 ```
-gem 'alpha-thm', '~> 0.1.3'
+gem 'alpha-thm', '~> 0.1.5'
 ```
 and add in __config.yml__
 ```
